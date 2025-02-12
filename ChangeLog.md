@@ -2,9 +2,23 @@
 
 ## Versions ##
 
-### Unreleased ###
+### 0.25.0 ###
+
+* Adds Windows 11 Enterprise 23H2 (2310) evaluation media
+* Updates default Windows 11 evaluation media to Windows 11 23H2 (2310)
+
+### 0.24.0 ###
+
+* Adds support for Azure DevOps package module feeds (thanks @bm-fez)
+* Moves all Windows 8.1 media to legacy media due to end of support
+* Corrects $env:LabilityRepositoryUri environment variable
+
+### 0.23.0 ###
 
 * Fixes PSScriptAnalyzer 1.21.0 test failures
+* Fixes Windows 11 Enterprise 22H2 (2209) evaluation media download link
+* Adds Windows 10 Enterprise 22H2 (2209) evaluation media
+* Updates default Windows 10 evaluation media to Windows 10 22H2 (2209)
 
 ### 0.22.0 ###
 
